@@ -10,6 +10,7 @@ A los dueños les pareció bien, pero una vez fueron instaladas, se vieron ante 
 Para el hotel, la solución sería crear una aplicación móvil/web, que una de sus funciones sea abrir las puertas de una forma telemática.
 Crear una aplicación que pueda abrir una puerta tras llamar a un **teléfono** o al usar una **página web**.
 La puerta en cuestión puede ser para _un apartamento, un parking, una tienda, un **hotel**, un punto de entrega_, etc.
+
 ![image](https://github.com/smallPingu/antiTarjetas/assets/134606360/462a1a73-7f12-45ce-8843-13b7edfffe86)
 ![image](https://github.com/smallPingu/antiTarjetas/assets/134606360/8319e091-5cdb-4a90-9421-acaaf031313a)
 
