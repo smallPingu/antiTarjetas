@@ -7,7 +7,7 @@ A los dueños les pareció bien, pero una vez fueron instaladas, se vieron ante 
 ![hotel](https://github.com/smallPingu/antiTarjetas/assets/134606360/c449ad4a-bb4c-4e70-a626-a80194724d26)
 
 ## La idea principal 
-Para el hotel, la solución sería crear una aplicación móvil/web, que una de sus funciones sea abrir las puertas de una forma telemática.
+Para el hotel sueco, la solución sería crear una aplicación móvil/web, que una de sus funciones sea abrir las puertas de una forma telemática.
 Crear una aplicación que pueda abrir una puerta tras llamar a un **teléfono** o al usar una **página web**.
 La puerta en cuestión puede ser para _un apartamento, un parking, una tienda, un **hotel**, un punto de entrega_, etc.
 
