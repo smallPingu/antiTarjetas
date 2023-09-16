@@ -29,7 +29,8 @@ Para los hoteles es mucho más fácil, porque el proceso de inscripción ya se h
 ### SSH key
 ![imagen](https://github.com/smallPingu/antiTarjetas/assets/134606360/00b224f7-230c-404a-bf8e-6be350fac35b)
 
+![image](https://github.com/smallPingu/antiTarjetas/assets/134606360/41b5f104-6cf9-4821-abb0-741fedbb14bb)
+
 
 ### Email y usuario configurados de manera local
-
-
+![image](https://github.com/smallPingu/antiTarjetas/assets/134606360/aa1a8e85-1fd6-4a10-aeef-6a0a0260a500)
