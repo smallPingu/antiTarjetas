@@ -24,3 +24,12 @@ Cuando se envíe la solicitud para abrir la puerta, sea por teléfono o por una 
 Si se va a utilizar el método del número de teléfono, debe haberse registrado con _anterioridad_ el **número de teléfono** en la base de datos. Si no, no hace falta.
 En la página web se generará un código encriptado el cual, a través de una URL, se podrá acceder al control de la puerta.
 Para los hoteles es mucho más fácil, porque el proceso de inscripción ya se hizo al hacer la reserva.
+
+## Configuración GitHub
+### SSH key
+![imagen](https://github.com/smallPingu/antiTarjetas/assets/134606360/00b224f7-230c-404a-bf8e-6be350fac35b)
+
+
+### Email y usuario configurados de manera local
+
+
