@@ -12,7 +12,6 @@ Me gustaría poder organizar todos mis datos de una forma en la que no tuviese q
 
 ![image](https://github.com/smallPingu/antiTarjetas/assets/134606360/41b5f104-6cf9-4821-abb0-741fedbb14bb)
 
-
 ### Email y usuario configurados de manera local
 ![image](https://github.com/smallPingu/antiTarjetas/assets/134606360/aa1a8e85-1fd6-4a10-aeef-6a0a0260a500)
 
