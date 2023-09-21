@@ -3,7 +3,7 @@
 ## Introducción
 Soy un estudiante de Universidad y estoy viviendo de forma independiente en Granada. Entre todas las preocupaciones que tenemos los estudiantes (calificaciones, trabajos, amistades, etc.), uno que siempre destaca es el tema del dinero. Sin él, no estaríamos estudiando en esta carrera, no podríamos comer lo necesario ni tener el ordenador portátil con el que estoy escribiendo este texto.
 ### Problema
-Muchas veces me gasto el dinero de forma deliberada, sin ser consciente de alternativas más económicas o posibles descuentos, y malgastarlo en artículos que realmente no son estrictamente necesarios (bebidas energéticas, comida basura, servicios de streaming, etc.). Esto me incapacita de poder comprar objetos más caros que pueden mejorar la calidad de mi vida a la larga.
+Muchas veces me gasto el dinero de forma deliberada, sin ser consciente de alternativas más económicas o posibles descuentos, y malgastarlo en artículos que realmente no son estrictamente necesarios (bebidas energéticas, comida basura, servicios de streaming, etc.). Quiero saber que comercio online me ofrece un mejor precio de los productos que quiero comprar.
 
 ## Configuración GitHub
 ### SSH key
