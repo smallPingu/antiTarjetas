@@ -1,9 +1,7 @@
-# ahorraCredit
-
-## Introducción
-Soy un estudiante de Universidad y estoy viviendo de forma independiente en Granada. Entre todas las preocupaciones que tenemos los estudiantes (calificaciones, trabajos, amistades, etc.), uno que siempre destaca es el tema del dinero. Sin él, no estaríamos estudiando en esta carrera, no podríamos comer lo necesario ni tener el ordenador portátil con el que estoy escribiendo este texto.
-### Problema
-Muchas veces me gasto el dinero de forma deliberada, sin ser consciente de alternativas más económicas o posibles descuentos, y malgastarlo en artículos que realmente no son estrictamente necesarios (bebidas energéticas, comida basura, servicios de streaming, etc.). Quiero saber que comercio online me ofrece un mejor precio de los productos que quiero comprar.
+# emocionPeliculas
+Netflix, Hulu y demás plataformas de streaming pueden recomendarte peliculas y series según lo que consumas en la plataforma, aplicando un algoritmo de recomendación basado en lo que ves, pero no tiene en cuenta como se siente el usuario en cada momento del día, ni le da la posibilidad de indicar cuál es el mood de su estado actual.
+Tener una aplicación que genera una lista con series y películas que estén adecuados a tus gustos y como te sientes en el momento, analizando cuales son las series y películas que te gustan (encuesta inicial) y cuando tiendes a tener tales sentimientos, para predecir cuál es el humor que tienes en cada periodo del día (por ejemplo, siempre que vuelves de casa tras el trabajo, te apetece ver películas de drama). 
+El usuario también puede hacer un filtrado personalizado que le permita indicar como se siente en cada momento, aportando así más información a la apliación sobre sus gustos y sus estados de emoción.
 
 ## Configuración GitHub
 ### SSH key
