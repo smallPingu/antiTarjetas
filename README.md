@@ -1,7 +1,12 @@
 # emocionPeliculas
-Netflix, Hulu y demás plataformas de streaming pueden recomendarte peliculas y series según lo que consumas en la plataforma, aplicando un algoritmo de recomendación basado en lo que ves, pero no tiene en cuenta como se siente el usuario en cada momento del día, ni le da la posibilidad de indicar cuál es el mood de su estado actual.
+
+## Problema
+Netflix, Hulu y demás plataformas de streaming pueden recomendarte peliculas y series según lo que consumas en la plataforma, aplicando un algoritmo de recomendación basado en lo que visualizas, pero no tiene en cuenta como se siente el usuario en cada momento del día, ni le da la posibilidad de indicar cuál es el mood de su estado actual.
+
+## Idea de Solución
 Tener una aplicación que genera una lista con series y películas que estén adecuados a tus gustos y como te sientes en el momento, analizando cuales son las series y películas que te gustan (encuesta inicial) y cuando tiendes a tener tales sentimientos, para predecir cuál es el humor que tienes en cada periodo del día (por ejemplo, siempre que vuelves de casa tras el trabajo, te apetece ver películas de drama). 
-El usuario también puede hacer un filtrado personalizado que le permita indicar como se siente en cada momento, aportando así más información a la apliación sobre sus gustos y sus estados de emoción.
+
+El usuario también puede hacer un filtrado personalizado que le permita indicar como se siente en cada momento, aportando así más información a la apliación sobre sus gustos y sus estados de emociones en cada periodo del día.
 
 ## Configuración GitHub
 ### SSH key
