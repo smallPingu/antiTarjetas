@@ -1,12 +1,10 @@
-# emocionPeliculas
+# biciAceptable
 
-## Problema
-Netflix, Hulu y demás plataformas de streaming pueden recomendarte peliculas y series según lo que consumas en la plataforma, aplicando un algoritmo de recomendación basado en lo que visualizas, pero no tiene en cuenta como se siente el usuario en cada momento del día, ni le da la posibilidad de indicar cuál es el mood de su estado actual.
+Ir en bicicleta por la ciudad no es una gran dificultad, al tener disponible un carril dedicado para bicicletas y condiciones favorables.
+Pero cuando quieres ir por montaña, campo o cualquier otro terreno, hay más complicaciones y más variables a tener en cuenta, entre ellas el tiempo atmosférico, la humedad, la intensidad del sol, etc, los cuales no tienes información hasta llegar allí.
 
-## Idea de Solución
-Tener una aplicación que genera una lista con series y películas que estén adecuados a tus gustos y como te sientes en el momento, analizando cuales son las series y películas que te gustan (encuesta inicial) y cuando tiendes a tener tales sentimientos, para predecir cuál es el humor que tienes en cada periodo del día (por ejemplo, siempre que vuelves de casa tras el trabajo, te apetece ver películas de drama). 
-
-El usuario también puede hacer un filtrado personalizado que le permita indicar como se siente en cada momento, aportando así más información a la apliación sobre sus gustos y sus estados de emociones en cada periodo del día.
+Gracias a los datos aportados por la Junta de Andalucía, podemos analizar el estado del tiempo presente, pasado y futuro de un entorno para predecir si la zona por la que quieres usar la bicicleta está en unas condiciones que favorezcan al usuario.
+Junto a una aplicación como Google Maps, este programa puede ser usado como complemento para tu día a día en las escapadas de bicicleta.
 
 ## Configuración GitHub
 ### SSH key
