@@ -1,10 +1,10 @@
-# biciAceptable
+# caminoAceptable
 
-Ir en bicicleta por la ciudad no es una gran dificultad, al tener disponible un carril dedicado para bicicletas y condiciones favorables.
-Pero cuando quieres ir por montaña, campo o cualquier otro terreno, hay más complicaciones y más variables a tener en cuenta, entre ellas el tiempo atmosférico, la humedad, la intensidad del sol, etc, los cuales no tienes información hasta llegar allí.
+Caminar por la ciudad no es una gran dificultad, al estar la ciudad diseñada con la idea principal de facilitar el camino hasta tu destino, con andénes y calles diseñadas.
+Pero cuando quieres ir por montaña, campo o cualquier otro terreno más natural, está la complicación principal de no saber cuál es el camino para poder avanzar, a veces atrapándote en círculos y volviendo al mismo lugar.
 
-Gracias a los datos agroclimáticos aportados por la Junta de Andalucía (ejemplo Almuñecar: https://www.juntadeandalucia.es/agriculturaypesca/ifapa/riaweb/web/estacion/18/9) y los datos meteorológicos aportados por AEMET (https://www.aemet.es/es/datos_abiertos/AEMET_OpenData), podemos analizar el estado del tiempo meteorológico y el estado del terreno pasado y presente de un entorno para concluir si la zona por la se quiere usar la bicicleta está en unas condiciones que favorezcan al usuario.
-Junto a una aplicación como Google Maps, este programa puede ser usado como complemento para tu día a día en las escapadas de bicicleta.
+Páginas como wikiloc.com, almacenan varias rutas por montaña, campo y demás terrenos, aportadas por la comunidad. Si quisieras usar los datos aportados por los usuarios, tienes la opción de descargar la información de las rutas en formato de archivos GPX, XML o KML desde la página, que sin la aplicación correcta, no puede ser usadas.
+ 
 
 ## Configuración GitHub
 ### SSH key
