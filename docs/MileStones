@@ -1,24 +1,9 @@
 Se han creado 2 Milestones.
 
-MileStone0: Asignado Historia de Usuario 1 (María)
+MileStone0: 	Asignado Historia de Usuario 1 (María)
+		Recoger ficheros conteniendo rutas de diversas páginas web.
+		https://es.wikiloc.com/ (Tiene ficheros XML, GPX, etc.)
+		https://www.alltrails.com/es/
 
-MileStone1: Asignado Historia de Usuario 2 (Martín)
-
-Lo siguiente se distribuye en las distintas historias de usuario, las escribo aquí para reforzar.
-
-Usuario 1: María
-Es una aficcionada al senderismo, le gusta pasear por montañas y campos, pero no sabe orientarse bien. Por ello, utiliza su teléfono para explorar caminos recomendados por otros senderistas en varias páginas web. Le gustaría poder acceder a varias rutas de diversas páginas web en un sólo lugar.
-
-Usuario 2: Martín
-No es una persona que salga mucho a la calle, prefiere usar el ordenador, pero se alegra al ver a su esposa María contenta al realizar un camino de senderismo, así que le ayuda a su esposa a buscar varias opciones desde su portátil. No desea crear ninguna cuenta en las diversas páginas, ya que no realiza ninguna ruta por su cuenta ni desea subir ninguna ruta personal, sólo quiere recibir rutas de su zona de las distintas páginas web fundamentadas por la comunidad. Por su cuenta intentó ver las rutas almacenadas, pero no entiende de tipo de archivos (XML, GPX, etc.)
-
-
-María:
-	Beneficio: Encontrar diversas rutas de senderismo
-	Deseo: Poder acceder a las rutas sin entender de tecnología.
-	Producto: Aplicación web con sencilla interfaz que devuelva rutas de una zona.
-
-Martín:
-	Beneficio: Ayudar a María a encontrar rutas
-	Deseo: Recoger diversas rutas recomendadas sin entender de senderismo.
-	Producto: Aplicación web que transcriba varias rutas de un tipo de archivo incomprensible para humano a formato de ruta que pueda usarse.
+MileStone1: 	Asignado Historia de Usuario 2 (Martín)
+		Con los ficheros recogidos que contienen las rutas, poder entender todos los tipos de archivos y extraer información relevante.
