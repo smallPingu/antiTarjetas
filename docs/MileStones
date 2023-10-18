@@ -1,9 +1,9 @@
 Se han creado 2 Milestones.
 
 MileStone0: 	Asignado Historia de Usuario 1 (María)
-		Recoger ficheros conteniendo rutas de diversas páginas web.
+		Aplicación que recopile y encuentre archivos de varias páginas web, sabiendo que cada una de ellas tiene una forma distinta de organizarlos.
 		https://es.wikiloc.com/ (Tiene ficheros XML, GPX, etc.)
 		https://www.alltrails.com/es/
 
 MileStone1: 	Asignado Historia de Usuario 2 (Martín)
-		Con los ficheros recogidos que contienen las rutas, poder entender todos los tipos de archivos y extraer información relevante.
+		Con los ficheros recogidos que contienen las rutas, poder identificar y extraer información que sea relevante para el usuario (camino, tiempo, dificultad, etc.).
