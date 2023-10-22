@@ -1,6 +1,6 @@
 Se han creado 2 Milestones.
 
-MileStone0: 	Asignado Historia de Usuario 1 (María)
+MileStone0:
 		Página web que encuentre y recopile archivos de interés (en este caso rutas) de otras páginas web.
 		Se tiene que tener en cuenta que cada una de las páginas web tiene una estructura de organización de archivos diferente.
 		Ejemplo de páginas web relevantes:
@@ -8,6 +8,6 @@ MileStone0: 	Asignado Historia de Usuario 1 (María)
 			https://www.alltrails.com/es/
 			https://www.senderosgr.es/
 
-MileStone1: 	Asignado Historia de Usuario 2 (Martín)
+MileStone1:
 		Con los ficheros recogidos contieniendo las rutas, poder identificar y extraer información que sea relevante para el usuario (camino, tiempo, dificultad, etc.).
 		https://hikingguy.com/how-to-hike/what-is-a-gpx-file/ (Explicación de .gpx, uno de los tipos de archivos a tratar)
