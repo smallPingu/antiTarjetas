@@ -1,7 +1,7 @@
 Se han creado 2 Milestones.
 
 MileStone0:
-		Aplicación que encuentre y recopile archivos de interés (en este caso rutas) de otras páginas web.
+		Necesitamos encontrar y recopilar archivos de interés (en este caso rutas) de otras páginas web.
 		Se tiene que tener en cuenta que cada una de las páginas web tiene una estructura de organización de archivos diferente.
 		Ejemplo de páginas web relevantes:
 			https://es.wikiloc.com/ (Tiene ficheros XML, GPX, etc.)
