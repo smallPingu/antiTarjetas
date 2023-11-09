@@ -1,13 +1,18 @@
 Se han creado 2 Milestones.
 
 MileStone0:
+	Objetivo: El propósito es llevar a cabo un análisis de las Unidades de Herramienta (HUs) con el fin de identificar y extraer los diversos componentes que componen al problema, y posteriormente codificarlos de manera adecuada.
+
+	Entregable: Se entregará un código modularizado que representará el modelo del problema de forma efectiva.
+
+	Viabilidad: La viabilidad de este proyecto estará sujeta a la aprobación por parte del product manager, que en este caso seré yo.
+
+MileStone1:
 		Necesitamos encontrar y recopilar archivos de interés (en este caso rutas) de otras páginas web.
 		Se tiene que tener en cuenta que cada una de las páginas web tiene una estructura de organización de archivos diferente.
 		Ejemplo de páginas web relevantes:
 			https://es.wikiloc.com/ (Tiene ficheros XML, GPX, etc.)
 			https://www.alltrails.com/es/
 			https://www.senderosgr.es/
-
-MileStone1:
-		Recoger los ficheros conteniendo las rutas, y seguidamente, identificar y extraer información que sea relevante para el usuario (camino, tiempo, dificultad, etc.).
-		https://hikingguy.com/how-to-hike/what-is-a-gpx-file/ (Explicación de .gpx, uno de los tipos de archivos a tratar)
+		Realizar una aplicación que recoja los ficheros conteniendo las rutas, y seguidamente, identificar y extraer información que sea relevante para el usuario (camino, tiempo, dificultad, etc.).
+			https://hikingguy.com/how-to-hike/what-is-a-gpx-file/ (Explicación de .gpx, uno de los tipos de archivos a tratar)
