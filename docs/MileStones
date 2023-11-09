@@ -9,15 +9,13 @@ MileStone0:
 
 MileStone1:
 		Necesitamos encontrar y recopilar archivos de interés (en este caso rutas) de otras páginas web.
-		Se tiene que tener en cuenta que cada una de las páginas web tiene una estructura de organización de archivos diferente.
-		Ejemplo de páginas web relevantes:
-			https://es.wikiloc.com/ (Tiene ficheros XML, GPX, etc.)
-			https://www.alltrails.com/es/
-			https://www.senderosgr.es/
-		Realizar una aplicación que recoja los ficheros conteniendo las rutas, y seguidamente, identificar y extraer información que sea relevante para el usuario (camino, tiempo, dificultad, etc.).
-			https://hikingguy.com/how-to-hike/what-is-a-gpx-file/ (Explicación de .gpx, uno de los tipos de archivos a tratar)
-	
-	Objetivo: Generar una aplicación sencilla que nos permita realizar un scrapping de diversas páginas web, con el fin de extraer información relevante de tales.
+    			https://es.wikiloc.com/ (Tiene ficheros XML, GPX, etc.)
+    			https://www.alltrails.com/es/
+    			https://www.senderosgr.es/
+		Realizar una aplicación que recoja ficheros conteniendo las rutas, e identifique y extraer información que sea relevante para el usuario (camino, tiempo, dificultad, etc.).
+ 			https://hikingguy.com/how-to-hike/what-is-a-gpx-file/ (Explicación de .gpx, uno de los tipos de archivos a tratar)
+
+	Objetivo: Generar una aplicación sencilla que nos permita realizar un scrapping de diversas páginas web, con el fin de extraer información relevante.
 
 	Entregable: Se entregará una aplicación sencilla que realice la funcionalidad básica que se indica.
 
