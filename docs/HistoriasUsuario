@@ -1,0 +1,16 @@
+Usuario 1: María
+Sou aficcionada al senderismo, me gusta pasear por montañas y campos, pero no tengo buen sentido de orientación. Por ello, utilizo mi teléfono para explorar caminos recomendados por otros senderistas en varias páginas web. Me gustaría poder encontrar varias rutas de diversas páginas web con una sóla aplicación, sin tener que invertir mucho de mi tiempo en entender como utilizar la aplicación.
+
+Usuario 2: Martín
+No soy una persona que ame salir a la calle, prefiero usar el ordenador, pero me alegra ver a mi esposa María contenta al realizar un camino de senderismo, así que le ayudo a buscar varias opciones desde mi portátil. No deseo crear ninguna cuenta en las diversas páginas, ya que no realizo ninguna ruta por mi cuenta ni deseo subir ninguna ruta personal, sólo quiero recibir rutas de la zona de las distintas páginas web fundamentadas por la comunidad. Por mi cuenta intenté ver las rutas almacenadas, pero al ser un usuario casual del ordenador sin experiencia con los tipos de archivos que se me ofrecen (XML, GPX, etc.), me consume mucho tiempo buscar las diferentes rutas y sacar la información que deseo de ellos.
+
+
+María:
+	Beneficio: Encontrar diversas rutas de senderismo
+	Deseo: Poder acceder a las rutas sin entender de tecnología.
+	Producto: Aplicación con sencilla interfaz que devuelva rutas de una zona.
+
+Martín:
+	Beneficio: Ayudar a María a encontrar rutas con la aplicación.
+	Deseo: Con la ayuda de la aplicación, recoger y extraer información relevante (scrappear) de las diversas rutas ofrecidas en las páginas web dedicadas a ello, sin entender de senderismo ni de los diferentes tipos de archivos con los que se tratan en ellas.
+	Producto: Aplicación que transcriba varias rutas de un tipo de archivo incomprensible para humano a formato de ruta que pueda usarse.
