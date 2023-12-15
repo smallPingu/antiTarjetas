@@ -3,28 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Carpeta de salida para los archivos transpilados de TypeScript
-/dist/
-
-# Carpeta de salida para los archivos generados por el compilador TypeScript
-/node_modules/
-
-# Archivo de configuración del compilador TypeScript
-/tsconfig.json
-
-# Archivo de definiciones de tipos generadas automáticamente por TypeScript
-/*.d.ts
-
-# Archivo de bloqueo de dependencias (ejemplo: yarn.lock o package-lock.json)
-/yarn.lock
-/package-lock.json
-
-# Archivos de configuración de Visual Studio Code
-/.vscode/
-
-# Archivos de configuración de TypeScript para Visual Studio Code
-/tsconfig.tsbuildinfo
-
 # C extensions
 *.so
 
