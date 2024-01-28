@@ -104,3 +104,19 @@ venv.bak/
 .mypy_cache/
 
 *~
+
+#Typescript
+build/Release
+
+typings/
+lib/*.js
+test/*.js
+*.map
+
+logs
+*.log
+
+tsconfig.json
+tsconfig.tsbuildinfo
+
+node_modules
