@@ -1,6 +1,6 @@
 interface Ruta {
-    Inicio: string;
-    Final: string;
-    Dificultad: string;
-    Longitud: number;
+    inicio: string;
+    final: string;
+    dificultad: string;
+    longitud: number;
 }
