@@ -1,6 +1,11 @@
 interface Ruta {
-    inicio: string;
-    final: string;
+    inicio: Coordenadas;
+    final: Coordenadas;
     dificultad: string;
     longitud: number;
 }
+
+type Coordenadas = {
+    latitud: number;
+    longitud: number;
+};
